@@ -1,6 +1,6 @@
 ## Interface: 110002
 ## Title: NoOpt
-## Notes: No option at all.
+## Author: toonmaterial
 ## Version: 1.1.1
 
 CombatLog.lua
