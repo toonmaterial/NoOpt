@@ -1,7 +1,7 @@
 ## Interface: 110002
 ## Title: NoOpt
 ## Author: toonmaterial
-## Version: 1.1.1
+## Version: 1.2.0
 
 CombatLog.lua
 Gliding.lua
